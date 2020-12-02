@@ -1,0 +1,280 @@
+
+#restaurant
+{
+    border-bottom: 1px solid black;
+    padding:2%;
+}
+
+#restaurant a
+{
+    color: black;
+    font-size: 5vh;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+#headerimage
+{
+    background-color: #eaf0ff;
+}
+
+#introduction
+{
+    position: relative;
+}
+
+#ban_h
+{
+
+    font-family: 'EB Garamond', serif;
+    text-shadow: 2px 2px 2px black;
+}
+
+#ban_p
+{
+    margin-top: 1%;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-shadow: 2px 3px 2px black;
+}
+
+#ban_p1
+{
+  
+    font-family: 'Staatliches', cursive;
+}
+
+#span
+{
+    padding: 12px;
+    background-color: rgb(242,116,95);
+    border-radius: 5px;
+    color: white;
+    font-family: 'Staatliches', cursive;
+}
+
+#span_head
+{
+    
+    margin-top: 5%;
+}
+
+#navbarTogglerDemo02 a
+{
+    font-family: 'EB Garamond', serif; 
+}
+
+#navbarTogglerDemo02 
+{
+    padding: 2%;
+}
+
+#ban_p
+{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-shadow: 2px 3px 2px black;
+     
+}
+
+#col
+{
+    
+    align-items: center;
+    
+}
+
+#para
+{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+}
+
+footer
+{
+    padding: 1%;
+    background-color: #1a1c1c;
+}
+
+#image h4
+{
+    font-family: 'Staatliches', cursive;
+}
+
+#image img
+{
+    width: 70%;
+    border-radius: 50%;
+    border: 7px solid rgb(234,240,255);
+    margin-bottom: 8%;
+
+}
+
+#form1
+{
+    margin-bottom: 14%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#tablehead
+{
+    margin-top: 10%;
+   
+}
+
+.news
+{
+    padding-bottom: 10%;
+}
+
+#news1
+{
+    color: white;
+}
+
+.app
+{
+    text-align: center;
+    padding: 5%;
+    background-color: rgb(242,116,95);
+}
+
+.app h4
+{
+    color: white;
+    margin-bottom: 2%;
+}
+
+.card img
+{
+    text-align: center;
+    align-self: center;
+}
+
+#card1
+{
+    border-bottom: 1px solid black;
+    margin-bottom: 6%;
+}
+
+#span7
+{
+    padding: 7px;
+    background-color: rgb(246,242,235);
+    color:rgb(242,116,95) ;
+}
+
+.feature
+{
+    padding-bottom: 5%;
+}
+
+.feat-head h4
+{
+    text-align: center;
+    margin:7%;
+}
+
+.our-blog
+{
+    background-color: rgb(242,246,255);
+    padding-bottom: 6%;
+}
+
+.bloghead h4
+{
+    text-align: center;
+    padding: 5%;
+}
+
+.divcontent
+{
+    background-color: #F2745F;
+    color: white;
+    padding:20px;
+    width: 100%;
+    text-align: center;
+}
+
+.divcontent1
+{
+    background-color: #F3826F;
+
+}
+
+.span1
+{
+    border-radius: 50%;
+    border:1px solid #F3826F;
+
+}
+
+.span2
+{
+    background-color: white;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#text1 h1
+{
+    font-family: 'Staatliches', cursive;
+}
+
+.menuhead h5, h6, p
+{
+    font-family: 'Staatliches', cursive;
+
+}
+
+#text
+{
+    padding-top: 3%;
+}
+
+#text p
+{
+    padding-top: 3%;
+    padding-bottom: 2%;
+}  
+
+#blog-text h5
+{
+    font-family: 'Staatliches', cursive;
+}
+
+.card-body
+{
+    background-color: rgb(242,246,255);
+}
+
+#myBtn 
+{
+  font-family: 'Staatliches', cursive;
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: rgb(242,116,95);
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover 
+{
+  background-color: #555;
+}
+
+.wrapper 
+{
+  margin-right: 0;
+  margin-left:  0;
+  padding-right: 0;
+  padding-left:  0;
+}
